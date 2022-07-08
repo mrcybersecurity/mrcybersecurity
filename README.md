@@ -43,6 +43,6 @@
 <div> 
   <a href="https://instagram.com/dvdluiz" target="_blank">
     
-<img height="180px" src="https://raw.githubusercontent.com/mrcybersecurity/mrcybersecurity/82cbee76525cdc1e9f74f0f4ba3492b9a9424ef0/download%20(1).svg"/> 
+  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   
 </div>

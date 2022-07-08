@@ -27,7 +27,7 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="David-Js" height="30" width="40" src="https://icons-for-free.com/download-icon-install+javascript+js+node+npm+tools+icon-1320165731324625592_512.png">
+  <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg">
   <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />

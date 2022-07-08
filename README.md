@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/davidluiz91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://raw.githubusercontent.com/mrcybersecurity/mrcybersecurity/287d3ca0e9f3015c9d3ccd34a2b58523d22ce898/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64617669646c75697a39312673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5.svg"/>
 </div>
  
 <div style="display: inline_block"><br>

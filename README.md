@@ -42,7 +42,7 @@
 
 <div> 
   <a href="https://instagram.com/dvdluiz" target="_blank">
-    <img src="https://img.icons8.com/color/344/telegram-app--v4.png" target="_blank" style="max-widht: 10px;"> </a>
- 
+    
+<img height="180px" src="https://raw.githubusercontent.com/mrcybersecurity/mrcybersecurity/82cbee76525cdc1e9f74f0f4ba3492b9a9424ef0/download%20(1).svg"/> 
   
 </div>

@@ -10,7 +10,7 @@
 
 - 📫 You can reach me on **mrcybersecurity@gmail.com**
 
-- 📞 There is more ways to reach me on <a href="">Mr cyber security</a>
+- 📞 There is more ways to reach me on <a href="">Comming soon</a>
 
 - 👨‍💻 My recent project <a href="https://casadopipeiro.store/" target="_blank">here</a>
 
